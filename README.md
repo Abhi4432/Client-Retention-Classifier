@@ -25,4 +25,4 @@ It contains visualisation graphs as made on tableau.
 
 Result.csv
 
-It shows the prediction made on each test dataset using SVC classifier. The f1_score on test dataset obatined is 0.8067 with f1 score on train_data as 0.8890
+It shows the prediction made on each test dataset using SVC classifier. The f1_score on test dataset is obatined as 0.8067 while on train_data as 0.8890
